@@ -10,6 +10,8 @@
   ---
 A pasta img é de extrema importância para a hospedagem do site! 🛜💻🎥
 
+🖥️ O site deve ser hospedado com zoom de 80% em alguns formatos de tela! 🖥️ 
+
  ---
 
 </details>
